@@ -13,7 +13,7 @@ Rider 在屏幕上存在大量鼠标访问 UI 元素，对于使用键盘编程�
 2. 将 breadcrums 由底部调整为顶部(File -> Settings -> Editor -> General -> Breadcrumbs -> Placement: Top)
 3. 关闭 Main Menu(View -> Appearance -> Main Menu)
 4. 关闭 Toolbar(View -> Appearance -> Toolbar)
-5. 关闭 Editor Tabs(Editor -> General -> Editor Tabs -> Appearance -> Tab placement: None)
+5. 关闭 Editor Tabs(File -> Settings -> Editor -> General -> Editor Tabs -> Appearance -> Tab placement: None)
 6. 关闭 Status Bar(View -> Appearance -> Status Bar)
 7. 关闭 Navigation bar(View -> Appearance -> Navigation bar)
 8. 关闭 Tool Window Bars(View -> Appearance -> Tool Windows Bars)
